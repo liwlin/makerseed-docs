@@ -14,9 +14,4 @@ Welcome to MakerSeed-种子创客工坊 WIKI
 
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
